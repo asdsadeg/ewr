@@ -1,0 +1,7 @@
+*.gcda
+*.gcno
+*.gcov
+*.o
+/.vscode/c_cpp_properties.json
+/build
+/score.txt
